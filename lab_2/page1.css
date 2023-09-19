@@ -1,0 +1,13 @@
+body{
+    background-color: #D2BDF9; /*Колір фону*/
+    color: #FCFCFC; /*Колір тексту*/
+    font-family: 'Helvetica Neue', Arial, sans-serif; 
+}
+
+a{
+    color: #754813; /*Колір посилань*/
+}
+
+h1, h2{
+    text-align: center;
+}

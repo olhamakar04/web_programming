@@ -1,0 +1,33 @@
+body{
+    background-color: #D2BDF9;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+
+a{
+    color: #754813;
+}
+
+.last_sentence{
+color: #4CE574;
+}
+
+.p_blue_underlined{
+    color: #2551EF;
+    text-decoration: underline;
+}
+
+.p_demi_bold{
+    font-weight: 700;
+}
+
+.img_left{
+    float: left;
+    width: 25%;
+    height: 25%;
+}
+
+.img_right{
+    float: right;
+    width: 25%;
+    height: 25%;
+}
