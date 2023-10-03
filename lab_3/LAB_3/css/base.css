@@ -1,0 +1,33 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Italiana:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Audrey:wght@400;700&display=swap');
+
+
+ @font-face {
+     font-family: 'Audrey Regular';
+     font-style: normal;
+     font-weight: normal;
+     src: local('Audrey Regular'), url('Audrey-Normal.woff') format('woff');
+ }
+
+:root{
+--color-beige: #FBEACD;
+--color-brown: #3A2A1A;
+--color-green: #647259;
+--font-family-h: "Italiana";
+--font-family-text: "Audrey Regular";
+--font-size-h1: 72px;
+--font-size-h2: 36px;
+
+--width: 1440px;
+--width-header: 720px;
+--width-menu: 720px;
+--height-header: 100px;
+--height-menu: 100px;
+--height-main: 1662 px;
+--height-additional: 290px;
+--height-footer: 84px;
+
+--padding-left: 38px;
+}
